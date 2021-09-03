@@ -1873,3 +1873,17 @@ p {
 .file_link:hover {
   color: var(--color-blue);
 }
+
+.source_statistics{
+  font-size: 10px;
+  position: relative;
+  bottom:220px;
+  left:250px;
+}
+
+.source_statistics_2{
+  font-size: 10px;
+  position: relative;
+  bottom:0px;
+  left:320px;
+}
